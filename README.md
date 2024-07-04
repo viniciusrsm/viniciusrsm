@@ -7,11 +7,8 @@ I'm Vinicius, currently studying Computer Science on University of Brasília. Wo
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<div>
-<a href="https://github.com/viniciusrsm">
 ![viniciusrsm's Stats](https://github-readme-stats.vercel.app/api?username=viniciusrsm&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![viniciusrsm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrsm&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-</div>
 
 <!--
 **viniciusrsm/viniciusrsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
