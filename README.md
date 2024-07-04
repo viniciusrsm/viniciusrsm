@@ -7,6 +7,7 @@ I'm Vinicius, currently studying Computer Science on University of Brasília. Wo
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+<div>
 <a href="https://github.com/viniciusrsm">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusrsm&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusrsm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
